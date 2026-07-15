@@ -84,4 +84,79 @@ Implemented:
 ---
 
 # System Architecture
+                         User
+                           |
+                           |
+                  React + Tailwind Dashboard
+                         (Vercel)
+                           |
+                           |
+                    REST API Requests
+                           |
+                           |
+                    FastAPI Backend
+                         (Render)
+                           |
+                           |
+                  PostgreSQL Database
+                          (Neon)
 
+---
+
+# Tech Stack
+
+## Frontend
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- REST API Integration
+
+
+## Backend
+
+- Python
+- FastAPI
+- SQLAlchemy
+- Alembic
+- JWT Authentication
+
+
+## Database
+
+- PostgreSQL
+- Neon Serverless PostgreSQL
+
+
+## Data Processing
+
+- Pandas
+- NumPy
+- Faker
+
+
+## Deployment
+
+Frontend:
+
+- Vercel
+
+Backend:
+
+- Render
+
+Database:
+
+- Neon PostgreSQL
+
+## Future Ideas
+
+Potential improvements:
+
+Excel and JSON dataset support
+Real-time audit updates
+Advanced visualization dashboards
+Cloud storage integration
+GDPR/SOC2 compliance mapping
+Data governance workflows
