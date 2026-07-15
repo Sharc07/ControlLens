@@ -1,7 +1,7 @@
 # ControlLens
 
 <p align="center">
-  <img src="./docs/banner.png" alt="ControlLens Dashboard" width="900"/>
+  <alt="ControlLens Dashboard" width="900"/>
 </p>
 
 <h3 align="center">
