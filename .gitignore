@@ -1,0 +1,15 @@
+# Frontend dependencies
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.*
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Editor files
+.vscode/
