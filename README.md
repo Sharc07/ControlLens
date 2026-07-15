@@ -14,11 +14,11 @@ AI-Powered Data Audit & Compliance Dashboard
 
 <p align="center">
 
-<a href="YOUR_VERCEL_URL">
+<a href="https://control-lens.vercel.app/">
 Live Demo
 </a>
 &nbsp; | &nbsp;
-<a href="YOUR_RENDER_URL/docs">
+<a href="https://controllens.onrender.com/docs">
 API Documentation
 </a>
 
